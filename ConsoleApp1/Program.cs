@@ -9,6 +9,8 @@ namespace ConsoleApp1
                 U glavnom programu uneti rečenicu i string koji se umeće. Ubaciti string nakon svakog razmaka u rečenici. 
                 Prikazati rečnicu pre i nakon modifikovanja.
             */
+
+
         static void umetnutiString(string recenica, string uRec)// f-ja je void(ne vraca) koja prima dva parametra tipa string nad kojima manipulisemo
         {
             for (int i = 0; i < recenica.Length; i++)// for petljom prolazimo kroz celi string
