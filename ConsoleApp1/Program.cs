@@ -19,7 +19,7 @@ namespace ConsoleApp1
         }
             static void Main(string[] args)
         {
-            Console.WriteLine("Unesite recenicu.");// ispis konzole za unos korisnika
+            Console.WriteLine("Unesite recenicu.");// ispis konzole za unos korisnika h
             string recenica = Console.ReadLine();// unosimo recenicu koju treba formatirati
             Console.WriteLine("Unesite rec koju umecemo u recenicu");// ispis konzole za unos korisnika
             string uRec = Console.ReadLine();// unosimo rec koju umecemo u datu recenicu
