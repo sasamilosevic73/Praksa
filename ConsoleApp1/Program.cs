@@ -7,9 +7,8 @@ namespace ConsoleApp1
         /*  Na programskom jeziku C# napisati funkciju koja umeće prosleđeni string, koji se prenosi kao parametar funkcije, 
                 u zadatoj rečenici. Prosleđeni string se umeće na zadatu poziciju koja se prenosi kao parametar funkcije. 
                 U glavnom programu uneti rečenicu i string koji se umeće. Ubaciti string nakon svakog razmaka u rečenici. 
-                Prikazati rečnicu pre i nakon modifikovanja.
+                Prikazati rečenicu pre i nakon modifikovanja.
             */
-
 
         static void umetnutiString(string recenica, string uRec)// f-ja je void(ne vraca) koja prima dva parametra tipa string nad kojima manipulisemo
         {
